@@ -2,7 +2,7 @@
 /*
 Plugin Name: Simple Facebook Like Box
 Description: Allows you to simply and easily put the Facebook Like Box on your Wordpress site via a widget.
-Version: 1.0
+Version: 1.0.1
 Author: Joe Stein
 License: GPL2
 */

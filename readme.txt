@@ -2,7 +2,7 @@
 Contributors: cowguru
 Tags: facebook, social, widget
 Requires at least: 3.0.1
-Tested up to: 3.9
+Tested up to: 4.1
 Stable tag: trunk
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BFPT87VPHTZNY
 License: GPLv2 or later
@@ -33,6 +33,9 @@ So free. 100% free.
 Make sure you disable ad blockers and privacy plugins on your browser for your particular page; these sometimes will block the Facebook like box. You'll also want to make sure that you entered the proper page id, which is the ______ in http://www.facebook.com/______ (the URL to your page).
 
 == Changelog ==
+
+= 1.0.1 =
+* Tested up to WordPress v4.1
 
 = 0.8 =
 * First version!
